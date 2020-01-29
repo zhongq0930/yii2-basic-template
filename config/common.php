@@ -16,6 +16,7 @@ $config = [
                     }
                 ],
             ],
+            'enableFlashMessages' => false,
             'enableConfirmation' => false,
             'modelMap' => [
                 'User' => 'app\modules\user\models\User',
